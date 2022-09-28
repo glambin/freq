@@ -28,7 +28,7 @@ sudo systemctl enable /usr/local/share/freq/systemd/freq.service
 sudo systemctl start freq.service
 ```
 
-## Conntributing
+## Contributing
 
 If you're interested in contributing to the project, feel free to read through our [Contributing](CONTRIBUTE.md) document.
 
